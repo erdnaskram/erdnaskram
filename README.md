@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning software development at Hochschule Coburg
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
-  > 📸 Instagram: [erdnaskram](https://instagram.com/erdnas.kram)
+  > 📸 Instagram: [erdnas.kram](https://instagram.com/erdnas.kram)
   > 🐦 Twitter: [erdnaskram](https://twitter.com/erdnaskram)
   > ℹ️ LinkedIn: [My Profil](https://www.linkedin.com/in/christophmarks)
 
