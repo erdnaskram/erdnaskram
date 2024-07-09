@@ -1,6 +1,6 @@
 - 👋 Hi, I’m erdnaskram
-- 👀 I’m interested in Java, Web, Kafka, Progressive Web Apps, Quarkus & more
-- 🌱 I’m currently learning software development at Hochschule Coburg
+- 👀 I’m interested in Java, Vue.js, Kafka, Progressive Web Apps, Quarkus & more
+- 🌱 I’m currently working as a fullstack developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
   > 📸 Instagram: [erdnas.kram](https://instagram.com/erdnas.kram)
